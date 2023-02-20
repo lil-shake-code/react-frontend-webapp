@@ -1,5 +1,5 @@
 {
-  "name": "rocket-frontend",
+  "name": "react-frontend-webapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,5 +44,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://lil-shake-code.github.io/react-frontend-webapp"
+  "homepage": "https://lil-shake-code.github.io/react-frontend-webapp/"
 }
